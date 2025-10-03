@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/bunnyxdave/bunnyxdave/output/github-contributi
 ✨ Full-Stack Developer & AI Enthusiast ✨
 
 </div>
-javascript
+
 const burhan = {
   pronouns: "he" | "him",
   code: ["JavaScript", "Python", "HTML", "CSS", "C#"],
