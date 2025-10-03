@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![GitHub Snake](https://raw.githubusercontent.com/bunnyxdave/bunnyxdave/output/github-contribution-grid-snake.svg)
 
 </div>
 
